@@ -1,4 +1,4 @@
-Yokoso watashino soul society
+
 
 <!---
 Kira5O4/Kira5O4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
